@@ -58,3 +58,5 @@ const promptUser = () => {
 
      });
 };
+
+promptUser();
