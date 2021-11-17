@@ -59,4 +59,10 @@ const promptUser = () => {
      });
 };
 
+module.exports = {promptUser};
+const {viewAllEmp, viewEmpByDep, viewEmpByMgr, addEmp, updateEmpRole} = require('./lib/employee-methods');
+const {viewDep, addDep} = require('./lib/department-methods');
+const {viewRoles, addRole} = require('./lib/role-methods');
+const {TotalBudgetByDep} = require('./lib/budget-calculation');
+
 promptUser();
