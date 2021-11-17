@@ -148,3 +148,48 @@ This command will install the following dependencies:
 ```
 There are no test used for this application.
 ```
+
+---
+
+## 🖼️ Gif showing functionality of the application
+
+---
+
+## 🔌 Link to the video walk-through of the application
+
+---
+
+- Google-Drive Link: [Employee-Tracker]()
+
+---
+
+## 🔌 Link to the Git-Hub repository
+
+---
+
+- GitHub Link: [
+  Employee-Tracker](https://github.com/Amit-Ranjan22/Employee-Tracker.git)
+
+---
+
+<h2 id='contribution'>🧑‍🤝‍🧑 Contribution</h2>
+
+    Amitabh Ranjan
+
+---
+
+<h2 id='questions'>❓ Questions</h2>
+
+<h3>For any question you can reach me at:</h3>
+
+---
+
+<h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>Amit-Ranjan22</a></h3>
+
+<h3>📩 Email: <a href='https://mail.google.com/'>amitabh.march22@gmail</a></h3>
+
+---
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](License-Copyright/LICENSE).
