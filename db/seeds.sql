@@ -13,3 +13,17 @@ VALUES ('Legal_Team_Head', 185000, 1),
        ('Junior_Engineer', 112000, 3),
        ('Plant_Manager', 161000, 4),
        ('Assembly_Supervisor', 70000, 4);
+
+INSERT INTO employee (first_name,last_name,role_id,manager_id,confirm_manager)
+VALUES ('Tom', 'hanks', 1, null, true),
+       ('leonardo', 'Decaprio', 2, 1, false),
+       ('Scarlett', 'Johansson', 2, 1, false),
+       ('WIll', 'Smith', 3, null, true),
+       ('Tom', 'Cruise', 4, 2, false),
+       ('Johnny', 'Depp', 4, 2, false),
+       ('Robert', 'Downey', 4, 2, false),
+       ('Dwayne', 'Johnson', 5, null, true),
+       ('Brad', 'Pitt', 6, 3, false),
+       ('Samuel', 'Jackson', 6, 3, false),
+       ('Denzel', 'Washington', 7, null, true),
+       ('Morgan', 'Freeman', 7, 4, false);
