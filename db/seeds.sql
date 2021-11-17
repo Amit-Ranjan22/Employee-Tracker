@@ -27,3 +27,9 @@ VALUES ('Tom', 'hanks', 1, null, true),
        ('Samuel', 'Jackson', 6, 3, false),
        ('Denzel', 'Washington', 7, null, true),
        ('Morgan', 'Freeman', 7, 4, false);
+
+INSERT INTO manager (first_name, last_name)
+SELECT first_name,
+       last_name
+FROM employee
+WHERE confirm_manager = 1;
