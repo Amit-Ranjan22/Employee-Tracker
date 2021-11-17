@@ -21,6 +21,40 @@ const promptUser = () => {
         ]
      })
      .then((data) => {
+         switch (data['begin choices']){
+            case 'View All Employees':
+                viewAllEmp();
+                break;
+            case 'View All Employees By Department':
+                viewEmpByDep();
+                break;
+            case 'View All Employee By Manger':
+                viewEmpByMgr();
+                break;
+            case 'View Departments':
+                viewDep();
+                break;
+            case 'View Roles':
+                viewRoles();
+                break;
+            case 'View Total Budget':
+                TotalBudgetByDep();
+                break;
+            case 'Add Employee':
+                addEmp();
+                break;
+            case 'Update Employee Role':
+                updateEmpRole();
+                break;
+            case 'Add Department':
+                addDep();
+                break;
+            case 'Add Role':
+                addRole();
+                break;
+            case 'Thanks! I am Done':
+                break;
+        }
 
      });
 };
