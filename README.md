@@ -155,7 +155,7 @@ There are no test used for this application.
 
 ---
 
-![Employee-Tracker-Gif](assets/Employee-tracker-Gif.gif)
+<img src = "assets/Employee-Tracker-Gif.gif" alt= "Employee-Tracker-Gif">
 
 ---
 
