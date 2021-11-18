@@ -155,11 +155,15 @@ There are no test used for this application.
 
 ---
 
+![Employee-Tracker-Gif](assets/Employee-tracker-Gif.gif)
+
+---
+
 ## 🔌 Link to the video walk-through of the application
 
 ---
 
-- Google-Drive Link: [Employee-Tracker]()
+- Google-Drive Link: [Employee-Tracker](https://drive.google.com/file/d/1hOi69mCsdODGOCEAvO48hb9JELP3OCwc/view?usp=sharing)
 
 ---
 
